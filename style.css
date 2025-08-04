@@ -102,10 +102,10 @@ span {
 
 .love-message {
   position: absolute;
-  top: 50%;
+  top: 80%;
   left: 50%;
   transform: translate(-50%, -50%) scale(0);
-  font-size: 2rem;
+  font-size: 4rem;
   font-weight: bold;
   color: #ff4d6d;
   text-shadow: 0 0 10px rgba(255, 77, 109, 0.8);
@@ -163,4 +163,5 @@ span {
     opacity: 0;
     transform: translateY(75vmin);
   }
+
 }
